@@ -1,16 +1,27 @@
 # newapp
 
-A new Flutter project.
+A new Flutter test project testing Islington API.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+The applciation consists of the following features developed using the test api provided
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+List of modules: 
+	- List of modules of the college 
+	- Classified on the basis of year and Semester 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+List of lectures:
+	- List of lectures 
+	- Classified according to module name 
+
+Class routine:
+	- List of all groups 
+	- Lecture routine classified
+
+Hall availibility 
+	- Displaying time when the halls are occupied
+
+Teacher's Availibility
+	- Displaying time when the teachers have classes
