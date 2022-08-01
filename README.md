@@ -1,4 +1,4 @@
-# newapp
+# Applicaiton
 
 A new Flutter test project testing Islington API.
 
